@@ -28,7 +28,6 @@ To perform data preprocessing on the Iris dataset, identify and fill missing val
 ```text
 data/        - Dataset
 notebooks/   - Jupyter Notebook
-src/         - Python source code
 outputs/     - Heatmap and results
 ```
 
